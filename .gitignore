@@ -3,4 +3,4 @@ package-lock.json
 *.DS_Store
 *.log
 .firebaserc
-/functions/credential.json
+functions/credential.json
